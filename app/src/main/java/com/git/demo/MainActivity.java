@@ -10,6 +10,9 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //fff
+        //   fff
+        // hotfix1.0.0修改；
+        // feature 1.0.1修改
+        //  修改feature  1.0.1分支
     }
 }
