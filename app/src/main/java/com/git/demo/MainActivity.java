@@ -14,5 +14,7 @@ public class MainActivity extends AppCompatActivity {
         // hotfix1.0.0修改；
         // feature 1.0.1修改
         //  修改feature  1.0.1分支
+        // develop
+        // release修改；
     }
 }
