@@ -18,5 +18,6 @@ public class MainActivity extends AppCompatActivity {
         // rele22222222222222222；feature/1.0.3修改；
 
         // feature/1.0.2修改；
+        // hotfix 1.0.5 xiugai
     }
 }
